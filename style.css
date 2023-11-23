@@ -1,7 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img,
+video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+iframe {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+}
+
 h1 {
-  color: violet;
+  color: blue;
 }
 
 p {
-  color: violet;
+  color: blue;
 }
